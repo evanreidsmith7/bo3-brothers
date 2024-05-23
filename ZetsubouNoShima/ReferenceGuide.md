@@ -75,23 +75,6 @@ Return to the lab and upgrade the KT-4 into the Masamune.
 
 Every player has three personal challenges that appear on pillars near the spawn. Complete these challenges to contribute to the team's progress. These challenges vary from killing zombies with specific methods to eating fruits from plants.
 
-### current challenges
-
-```bash
-#### destroy 5 webs with explosives
-
-- status: 5/5
-
-#### kill 20 zombies underwater
-
-- status: 0/20
-
-#### use the plane trap to kill 30 zombies
-
-- status: 0/30
-
-```
-
 #### Kill 15 zombies attracted to plants
 
 - For this challenge, the player has to water a planted seed three times using purple water.
@@ -116,8 +99,52 @@ Upon defeating the boss, watch the cutscene that reveals more about the Zombies 
 
 ## My Notes
 
-- complete my three challanges
-- let will upgrade kt4
-- will show what todo
+### current challenges
+
+```bash
+#### kill 3 zombies as they are mutating
+
+- status: 
+
+#### Obtain powerup from plant
+
+- status: 
+
+#### use a spore to regain air underwater
+
+- status: 0/30
+
+```
+
+#### Use a Spore to Regain Air Underwater
+
+1. **Locate a Spore:** Find spores in underwater areas of the map, particularly in the power room and near the Mule Kick.
+
+2. **Destroy the Spore:** Approach the spore and destroy it to release a cloud.
+
+3. **Enter the Cloud:** Immediately enter the cloud left by the destroyed spore.
+
+4. **Regain Air:** Instead of coughing, you will regain air while in the cloud, completing the challenge.
+
+#### Kill 3 Zombies as They Are Mutating
+
+1. **Identify Mutating Zombies**
+Zombies mutate into more powerful forms (like Thrashers) when they come into contact with spores. You'll know a zombie is about to mutate because it begins to puff up and change form near these spores.
+
+2. **Locate Spores**
+Walk around the map and find the large orange spores attached to walls and trees. These are more frequent in swampy areas.
+
+3. **Bait Zombies**
+Lead zombies near these spores but don’t destroy the spores yet. It’s best to have a small group of zombies to increase your chances that one will begin mutating.
+
+4. **Trigger Mutation**
+Shoot a spore as zombies are close to it. There's a chance one of the zombies exposed to the spore will start mutating. Look for visible changes and increased size as indicators.
+
+5. **Kill Quickly**
+As soon as you see a zombie start to mutate, kill it immediately. Use a powerful weapon to ensure it dies quickly. Weapons like shotguns or ray guns are more effective.
+
+### Other Figures
+
+![ ](l.jpg)
 
 ![ ](willnotes.jpg)
