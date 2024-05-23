@@ -2,9 +2,13 @@
 
 ![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/tak.gif)
 
+![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/mapingame.png)
+
 ## Links to Resources
 
 [Ultimate Guide to "Zetsubou No Shima" - Walkthrough, Tutorial, All Buildables (Black Ops 3 Zombies)](https://www.gamesatlas.com/cod-black-ops-3/zombies/zetsubou-no-shima-easter-egg-guide)
+
+[Zetsubou No Shima | Complete Map Breakdown](https://www.reddit.com/r/CODZombies/comments/4kl7kr/zetsubou_no_shima_complete_map_breakdown/?rdt=45010&onetap_auto=true&one_tap=true)
 
 ## Turn on the Power
 
@@ -68,6 +72,12 @@ Return to the lab and upgrade the KT-4 into the Masamune.
 
 Every player has three personal challenges that appear on pillars near the spawn. Complete these challenges to contribute to the team's progress. These challenges vary from killing zombies with specific methods to eating fruits from plants.
 
+#### Kill 15 zombies attracted to plants
+
+- For this challenge, the player has to water a planted seed three times using purple water.
+- After that, a plant that attracts and kills zombies will grow.
+- To complete the challenge, the player simply has to kill the zombies that are attracted to the plant, before the plant kills them.
+
 ## Access the Boss Fight
 
 Use the Elevator: After collecting all the cogs, install them in the elevator mechanism. Use the elevator to descend to the boss fight area.
@@ -83,3 +93,9 @@ The final boss is a mutated Takeo. Avoid his attacks, and clear waves of zombies
 ### End Game
 
 Upon defeating the boss, watch the cutscene that reveals more about the Zombies storyline.
+
+## My Notes
+
+- complete my three challanges
+- let will upgrade kt4
+- will show what todo
