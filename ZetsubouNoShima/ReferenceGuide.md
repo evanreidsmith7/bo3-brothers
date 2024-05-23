@@ -1,6 +1,7 @@
 # Easter Egg Steps
 
 ![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/tak.gif)
+
 ## Links to Resources
 
 [Ultimate Guide to "Zetsubou No Shima" - Walkthrough, Tutorial, All Buildables (Black Ops 3 Zombies)](https://www.gamesatlas.com/cod-black-ops-3/zombies/zetsubou-no-shima-easter-egg-guide)
