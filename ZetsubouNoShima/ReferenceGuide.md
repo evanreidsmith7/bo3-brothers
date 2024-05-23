@@ -72,6 +72,20 @@ Return to the lab and upgrade the KT-4 into the Masamune.
 
 Every player has three personal challenges that appear on pillars near the spawn. Complete these challenges to contribute to the team's progress. These challenges vary from killing zombies with specific methods to eating fruits from plants.
 
+### current challenges
+
+#### destroy 5 webs with explosives
+
+- status: 0/5
+
+#### kill 20 zombies underwater
+
+- status: 0/20
+
+#### use the plane trap to kill 30 zombies
+
+- status: 0/30
+
 #### Kill 15 zombies attracted to plants
 
 - For this challenge, the player has to water a planted seed three times using purple water.
