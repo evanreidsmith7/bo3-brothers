@@ -1,8 +1,11 @@
 # Easter Egg Steps
 
-![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/tak.gif)
+<!-- ![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/tak.gif)
 
-![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/mapingame.png)
+![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/mapingame.png) -->
+![ ](tak.gif)
+
+![ ](mapingame.png)
 
 ## Links to Resources
 
@@ -74,9 +77,10 @@ Every player has three personal challenges that appear on pillars near the spawn
 
 ### current challenges
 
+```bash
 #### destroy 5 webs with explosives
 
-- status: 0/5
+- status: 5/5
 
 #### kill 20 zombies underwater
 
@@ -85,6 +89,8 @@ Every player has three personal challenges that appear on pillars near the spawn
 #### use the plane trap to kill 30 zombies
 
 - status: 0/30
+
+```
 
 #### Kill 15 zombies attracted to plants
 
@@ -113,3 +119,5 @@ Upon defeating the boss, watch the cutscene that reveals more about the Zombies 
 - complete my three challanges
 - let will upgrade kt4
 - will show what todo
+
+![ ](willnotes.jpg)
