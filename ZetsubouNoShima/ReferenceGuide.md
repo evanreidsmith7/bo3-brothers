@@ -1,6 +1,6 @@
 # Easter Egg Steps
 
-![ ](ZetsubouNoShima/misc/tak.gif)
+![ ](https://github.com/evanreidsmith7/bo3-brothers/blob/main/ZetsubouNoShima/misc/tak.gif)
 
 ## Turn on the Power
 
