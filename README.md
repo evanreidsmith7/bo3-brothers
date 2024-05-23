@@ -1,2 +1,3 @@
 # bo3-brothers
-for fun
+
+## Guides for Zombies Easter Eggs on boiii 
