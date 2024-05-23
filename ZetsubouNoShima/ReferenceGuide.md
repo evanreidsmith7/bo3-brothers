@@ -1,5 +1,7 @@
 # Easter Egg Steps
 
+![ ](ZetsubouNoShima/misc/tak.gif)
+
 ## Turn on the Power
 
 ### Temporary Power
